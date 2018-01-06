@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>baraja.jpg</file>
+        <file>button.cpp</file>
+        <file>button.h</file>
+        <file>carta.cpp</file>
+        <file>carta.h</file>
+        <file>cartas.qrc</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>mainwindow.ui</file>
+        <file>maso.cpp</file>
+        <file>maso.h</file>
+        <file>SolitarioProjectED1.pro</file>
+    </qresource>
+</RCC>

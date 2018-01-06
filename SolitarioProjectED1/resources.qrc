@@ -1,0 +1,62 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/corazones/22547875_1914396642156214_1781965625_n.png</file>
+        <file>images/corazones/22547924_1914395702156308_476967581_n.png</file>
+        <file>images/corazones/22551393_1914396762156202_975674828_n.png</file>
+        <file>images/corazones/22551596_1914396612156217_2029399535_n.png</file>
+        <file>images/corazones/22551801_1914394638823081_1649187530_n.png</file>
+        <file>images/corazones/22554389_1914396155489596_1829061851_n.png</file>
+        <file>images/corazones/22554624_1914395535489658_1091988748_n.png</file>
+        <file>images/corazones/22627344_1914396288822916_216430124_n.png</file>
+        <file>images/corazones/22627540_1914396012156277_1594805423_n.png</file>
+        <file>images/corazones/22635381_1914395738822971_1335387916_n.png</file>
+        <file>images/corazones/22635464_1914395925489619_66344310_n.png</file>
+        <file>images/corazones/22656319_1914395775489634_1370610763_n.png</file>
+        <file>images/corazones/22656644_1914396045489607_1512832141_n.png</file>
+        <file>images/diamantes/22538068_1914399155489296_176078045_n.png</file>
+        <file>images/diamantes/22547606_1914399108822634_2088050830_n.png</file>
+        <file>images/diamantes/22547803_1914399205489291_1229440717_n.png</file>
+        <file>images/diamantes/22547904_1914398928822652_946993944_n.png</file>
+        <file>images/diamantes/22551691_1914399265489285_625663254_n.png</file>
+        <file>images/diamantes/22551771_1914398728822672_56943740_n.png</file>
+        <file>images/diamantes/22551828_1914399088822636_2026166519_n.png</file>
+        <file>images/diamantes/22554406_1914398768822668_24267978_n.png</file>
+        <file>images/diamantes/22627630_1914398632156015_1032633518_n.png</file>
+        <file>images/diamantes/22656398_1914399038822641_1275875293_n.png</file>
+        <file>images/diamantes/22656421_1914398978822647_41060186_n.png</file>
+        <file>images/diamantes/22656621_1914398645489347_945327308_n.png</file>
+        <file>images/diamantes/22657320_1914398865489325_1379872794_n.png</file>
+        <file>images/Parte Trasera/22524046_1914401445489067_1704081819_n.png</file>
+        <file>images/Parte Trasera/22551564_1914400798822465_139431453_n.png</file>
+        <file>images/Parte Trasera/22551657_1914400285489183_182326853_n.png</file>
+        <file>images/Parte Trasera/22551769_1914401208822424_695711013_n.png</file>
+        <file>images/Parte Trasera/22656545_1914401002155778_283331842_n.png</file>
+        <file>images/Parte Trasera/playing-card-568201_1920.jpg</file>
+        <file>images/picas/22497529_1914400125489199_1305922026_n.png</file>
+        <file>images/picas/22538281_1914399592155919_188642626_n.png</file>
+        <file>images/picas/22547848_1914399375489274_1409364020_n.png</file>
+        <file>images/picas/22551587_1914399655489246_80695964_n.png</file>
+        <file>images/picas/22551806_1914399812155897_1246396535_n.png</file>
+        <file>images/picas/22554217_1914400188822526_1763730214_n.png</file>
+        <file>images/picas/22554328_1914399948822550_929596686_n.png</file>
+        <file>images/picas/22554346_1914399985489213_2073443831_n.png</file>
+        <file>images/picas/22554429_1914399762155902_1149183406_n.png</file>
+        <file>images/picas/22554549_1914399338822611_1102636721_n.png</file>
+        <file>images/picas/22554697_1914399872155891_687391844_n.png</file>
+        <file>images/picas/22627762_1914399508822594_190494588_n.png</file>
+        <file>images/picas/22656425_1914400158822529_2106238729_n.png</file>
+        <file>images/treboles/22523743_1914397448822800_389394850_n.png</file>
+        <file>images/treboles/22538126_1914397368822808_545721232_n.png</file>
+        <file>images/treboles/22538249_1914397322156146_807798924_n.png</file>
+        <file>images/treboles/22538284_1914397055489506_1558077321_n.png</file>
+        <file>images/treboles/22547828_1914397918822753_225602936_n.png</file>
+        <file>images/treboles/22547926_1914397112156167_1586261317_n.png</file>
+        <file>images/treboles/22547954_1914397005489511_412717270_n.png</file>
+        <file>images/treboles/22551647_1914397255489486_495796438_n.png</file>
+        <file>images/treboles/22551736_1914396918822853_1858405130_n.png</file>
+        <file>images/treboles/22551882_1914397122156166_1646783999_n.png</file>
+        <file>images/treboles/22554649_1914397635489448_1996875881_n.png</file>
+        <file>images/treboles/22635011_1914397488822796_1618946267_n.png</file>
+        <file>images/treboles/clubs-884179_1280.png</file>
+    </qresource>
+</RCC>
